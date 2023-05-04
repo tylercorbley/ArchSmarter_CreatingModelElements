@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_CreatingModelElements - Command 1</Text>
+    <Description>Some description for ArchSmarter_CreatingModelElements</Description>
+    <Assembly>ArchSmarter_CreatingModelElements.dll</Assembly>
+    <FullClassName>ArchSmarter_CreatingModelElements.Command1</FullClassName>
+    <ClientId>b56838b6-5b80-46b1-9d87-e2b7a1925d96</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_CreatingModelElements - Command 2</Text>
+    <Description>Some description for ArchSmarter_CreatingModelElements</Description>
+    <Assembly>ArchSmarter_CreatingModelElements.dll</Assembly>
+    <FullClassName>ArchSmarter_CreatingModelElements.Command2</FullClassName>
+    <ClientId>a9908d02-cb51-44c5-a1d3-1736b15e20c1</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>ArchSmarter_CreatingModelElements</Name>
+    <Assembly>ArchSmarter_CreatingModelElements.dll</Assembly>
+    <FullClassName>ArchSmarter_CreatingModelElements.App</FullClassName>
+    <ClientId>d1211616-1a35-4127-a95d-92672ee716fe</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
